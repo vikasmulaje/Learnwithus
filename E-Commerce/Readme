@@ -1,0 +1,11 @@
+In the above version, we created the code to check and send notifications to the user if the 
+products on the e-commerce website have fallen below the expected price.
+
+Application,
+    Suppose the price of a product is 5000. However, during occasions like Diwali, the price falls below 5000.
+    In such cases, our code sends a notification to the user, encouraging them to purchase the product and save money.
+
+
+Future updates,
+        We are planning to add a feature that allows users to enter a product URL and the expected price during the offer period.
+        and many more features..,
