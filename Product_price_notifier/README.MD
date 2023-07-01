@@ -11,9 +11,7 @@ Scenario: As a user I want to buy a mobile phone right now but the current price
 
 Project will hosted in this repo
 
-https://github.com/vikasmulaje/Learnwithus
-
-
+https://github.com/vikasmulaje/Learnwithus/tree/main/Product_price_notifier
 
 
 
