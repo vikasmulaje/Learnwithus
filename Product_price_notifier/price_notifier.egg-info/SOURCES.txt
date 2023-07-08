@@ -1,0 +1,7 @@
+README.md
+setup.py
+price_notifier.egg-info/PKG-INFO
+price_notifier.egg-info/SOURCES.txt
+price_notifier.egg-info/dependency_links.txt
+price_notifier.egg-info/requires.txt
+price_notifier.egg-info/top_level.txt

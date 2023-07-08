@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: price-notifier
+Version: 0.0.1
+Summary: product price notifier
+Author: vinod
+Author-email: vpmulaje@gmail.com
+Keywords: request_,BeautifulSoup,python-dotenv,pymongo
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.6
+Description-Content-Type: Price tracking web application that helps you save money on online e-commerce purchases. 
+                   It allows you to monitor product prices and receive notifications via email when the price drops. 
+
+
+Ecommerce Product Price Notifier
+
+
+Create a Tool which will notify users when required ecommerce Products will be available in users price range.
+
+
+Scenario: As a user I want to buy a mobile phone right now but the current price(20000) is way above my budget price(15000) as prices keep fluctuating. I want a way to get notified when the price is in my budget.
+
+
+
+
+Project will hosted in this repo
+
+https://github.com/vikasmulaje/Learnwithus/tree/main/Product_price_notifier
+
+
+
+
